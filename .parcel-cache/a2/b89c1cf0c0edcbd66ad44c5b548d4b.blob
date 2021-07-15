@@ -1,0 +1,9 @@
+.skin{
+    position: relative;
+}
+.san{
+    border: 10px solid red;
+    border-color: red transparent transparent;
+    border-bottom: none;
+    position: relative;
+}
